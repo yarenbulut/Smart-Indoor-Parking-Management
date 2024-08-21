@@ -19,12 +19,15 @@ Download and Install VirtualBox:
 Download the latest version of VirtualBox from the VirtualBox Download Page and install it.
 
 Create a New Virtual Machine:
+
 Create a new virtual machine in VirtualBox and configure the necessary settings.
 
 Download and Install Ubuntu Server:
+
 Download the Ubuntu Server operating system from the Ubuntu Download Page and install it on your virtual machine.
 
 Ubuntu Server Installation
+
 Create a Virtual Machine:
 Create a virtual machine through VirtualBox for Ubuntu Server.
 
@@ -70,10 +73,13 @@ Install Required Python Libraries:
 bash
 Copy code
 pip install psutil python-telegram-bot
+
 Write and Run Python Code to Monitor System Resources:
+
 Develop and execute Python code to monitor system resources and send alerts via Telegram when certain thresholds are exceeded.
 
 Results and Discussion
+
 The project involves creating a virtual machine on VirtualBox, installing Ubuntu Server, formatting disks, and performing stress tests on the system. Additionally, integration with a Telegram bot allows monitoring of system load and sending alerts. The results obtained are used to evaluate system performance in a virtual environment and observe potential performance issues that might be encountered in real-world scenarios.
 
 Conclusion
